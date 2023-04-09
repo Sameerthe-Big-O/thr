@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-//*conflict 2
-=======
-//*conflcit
->>>>>>> conflict
+ //*feature 2
